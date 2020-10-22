@@ -1,3 +1,5 @@
+The main repo for this now lives over here: https://github.com/jtimonen/stan_numerical_solvers
+
 # Reliable and fast use of numerical solvers
 
 A Stan case study.
